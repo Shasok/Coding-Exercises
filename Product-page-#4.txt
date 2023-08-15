@@ -1,0 +1,114 @@
+** start of undefined **
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link rel="stylesheet" href="styles.css" />
+    <link
+    rel="stylesheet"
+    href="https://use.fontawesome.com/releases/v5.8.1/css/all.css"
+  />
+  <header id="header">
+    <img src="https://cdn.freecodecamp.org/testable-projects-fcc/images/product-landing-page-logo.png" id="header-img" />
+    <nav id="nav-bar">
+      <ul>
+        <li>
+          <a class="nav-link" href="#Cooking">Cooking</a></li>
+        <li>
+          <a class="nav-link" href="#Ingredients">Ingredients</a></li>
+        <li>
+          <a class="nav-link" href="#Process">Handling</a></li>
+          </ul>
+
+      </nav>
+    </header>
+    <Body>
+      <div>
+      <form id="form" action="https://www.freecodecamp.com/email-submit">
+        <input 
+        name="email"
+        type="email" 
+        id="email" 
+        require="Email" 
+        placeholder="Write your e-mail here"></input>
+        <input 
+        type="submit" 
+        id="submit"
+        value="get started" 
+        class="btn"      
+        ></input>
+        </form>
+        </div>
+        <section id="Cooking">
+          <div class="container">
+          <div class="icon">
+            <i class="fa fa-3x fa-fire"> 
+              </i>
+              <div class="desc">
+            <h2>Cooking Premium</h2>
+            <p>In order to become a master of the cooking one must learn to harvest</p>
+            </div>
+              </div>
+              </section>
+        <section id="Ingredients">
+          <div class="container">
+          <div class="icon">
+            <i class="fa fa-3x fa-water">
+              </i>
+              <div class="desc">
+                <h2>Handling Ingredients</h2>
+                <p>In order to prepare and process ingredients, mastery over temperature is important</p>
+              </div>
+              </section>
+          <section id="Process">
+            <div class="cotainer">
+            <div class="icon">
+              <i class="fa fa-3x fa-fire">
+              </i>
+              <div class="desc">
+                <h2>Step-By-Step</h2>
+                <p>In order to process the food in a good manner, being able to follow a guide is vital</p>
+                </div>
+                </section>
+         </div>
+        <div>
+        <iframe
+        id="video"
+        height= "315"
+        src="https://www.youtube-nocookie.com/embed/y8Yv4pnO7qc?rel=0&controls=0&showinfo=0"
+        frameborder="0"
+        allowfullscreen
+        ></iframe>
+        </div>
+  </body>
+</html>
+
+** end of undefined **
+
+** start of undefined **
+
+#nav-bar{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  margin-top: 10px;
+  top: 0;
+}
+header{
+  position: fixed;
+  top: 0;
+}
+#header-img{
+  width: 60vw;
+}
+@media (max-width: 500px)
+#features .desc{
+  width: 100%;
+  text-align: center;
+  padding: 0;
+  height: 150px;
+}
+
+** end of undefined **
+
