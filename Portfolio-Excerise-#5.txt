@@ -1,0 +1,175 @@
+** start of undefined **
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href="styles.css">
+    <nav id="navbar" class="nav">
+     <ul class="nav-list">
+      <li>
+       <a class="nav-link" href="#About">About</a></li>
+      <li>
+       <a class="nav-link" href="#Work">Work</a></li>
+      <li>
+       <a class="nav-link" href="#Contact">Contact</a></li>
+      </ul>
+    </nav>
+  </head>
+  <body>
+     <section id="welcome-section" class="welcome-section">
+   <h1 id="About">Hello! I am Emilio</h1>
+    <p><i>and this is my portfolio</i></p>
+    </section>
+
+     <section id="projects" class="projects-section">
+    <h1 id="Work">These are some of my projects:</h1>
+     <div class="projects-grid">
+      <a 
+      href="" 
+      target="_blank" 
+      class="project project-tile">
+        <img 
+        class="project-image" 
+        src="https://miro.medium.com/max/4800/1*j6urVTjJvG_ytOtOD39eiA.png" 
+        alt="Reference photo for Code" />
+      <p class="project-title">
+        Survey Form
+       </p>
+      </a>
+      <a 
+      href="" 
+      target="_blank" 
+      class="project project-tile">
+        <img 
+        class="project-image" 
+        src="https://stephaniemariepotter.com/wp-content/uploads/2022/07/penguinfreecodecamp-400x284.jpg" 
+        alt="Image of said penguin made" />
+      <p class="project-title">
+        Penguin art with animation
+       </p>
+      </a>
+      <a 
+      href="" 
+      target="_blank" 
+      class="project project-tile">
+        <img 
+        class="project-image" 
+        src="https://devpractical.com/public/tribute-page-screenshot.jpg" 
+        alt="Tribute image of Code that was replicated" />
+      <p class="project-title">
+        Tribute for Dr. Norman
+       </p>
+      </a>
+      <a 
+      href="" 
+      target="_blank" 
+      class="project project-tile">
+        <img 
+        class="project-image" 
+        src="https://shots.codepen.io/freeCodeCamp/pen/NdrKKL-800.jpg?version=1606485576" 
+        alt="The wall of complicated text for a technical Document" />
+      <p class="project-title">
+        A Technical Document
+       </p>
+      </a>
+      </section>
+    </div>
+  <div class="container">
+    <section id="Contact" class="contact-section">
+    <h1 id="Contact">Let's work together...</h1>
+    <p><i>How do you take your coffee?</i></p>
+    <ul class="contact">
+      <li>
+        <a 
+        id="profile-link" 
+        href="https://www.facebook.com/emilio.moreno.9862" 
+        target="_blank"
+        >Facebook</a></li>
+      <li>
+        <a 
+        id="profile-link" 
+        href="https://github.com/Shasok" 
+        target="_blank"
+        >GitHub</a></li>
+      <li>
+        <a id="profile-link" target="_blank">Send a mail</a></li>
+      <li>
+        <a id="profile-link" target="_blank">Call me</a></li>
+    </section>
+  </div>
+  </body>
+  <footer>
+    <p>
+      *Images are not my code, but references to what I've functionally made*
+      </p>
+      <p>
+        Thank you <a href="https://www.freecodecamp.com/" target="_blank">FreeCodeCamp.Org</a>, for the lessons so far</p>
+  </footer>
+ </html>
+
+** end of undefined **
+
+** start of undefined **
+
+.nav {
+  display: flex;
+  justify-content: flex-end;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background: red;
+  z-index: 2;
+}
+.nav-list{
+  display: flex;
+  margin-right: 2rem;
+}
+ul{
+  list-style: none;
+}
+.nav-list a{
+  display: block;
+  font-size: 2.2rem;
+  padding: 1rem;
+}
+.Project-image{
+  max-width: 100%;
+  display: grid;
+  height: auto;
+  margin: 0 auto;
+}
+p {
+  text-align: center;
+}
+h1{
+  text-align: center;
+}
+.project-title{
+  text-align: center;
+}
+.projects-grid{
+  display: grid;
+  grid-template-columns: reapeat(auto-fit, minmax(320px, 1fr));
+  grid-gap: 4rem;
+  width: 100%;
+  max-width: 1280px;
+  margin: 0 auto;
+  margin-bottom: 6rem;
+}
+welcome-section{
+  height: 100vh;
+}
+body{
+  padding-top: 200px;
+}
+@media only screen and (max-width: 1280px) {
+  footer{
+    background-color: light-blue;
+  }
+}
+
+** end of undefined **
+
