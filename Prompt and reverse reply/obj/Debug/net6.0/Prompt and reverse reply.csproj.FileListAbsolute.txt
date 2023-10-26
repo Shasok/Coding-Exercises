@@ -1,0 +1,14 @@
+C:\Users\prakti\source\repos\Projects_Emilio\Prompt and reverse reply\bin\Debug\net6.0\Prompt and reverse reply.exe
+C:\Users\prakti\source\repos\Projects_Emilio\Prompt and reverse reply\bin\Debug\net6.0\Prompt and reverse reply.deps.json
+C:\Users\prakti\source\repos\Projects_Emilio\Prompt and reverse reply\bin\Debug\net6.0\Prompt and reverse reply.runtimeconfig.json
+C:\Users\prakti\source\repos\Projects_Emilio\Prompt and reverse reply\bin\Debug\net6.0\Prompt and reverse reply.dll
+C:\Users\prakti\source\repos\Projects_Emilio\Prompt and reverse reply\bin\Debug\net6.0\Prompt and reverse reply.pdb
+C:\Users\prakti\source\repos\Projects_Emilio\Prompt and reverse reply\obj\Debug\net6.0\Prompt and reverse reply.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prakti\source\repos\Projects_Emilio\Prompt and reverse reply\obj\Debug\net6.0\Prompt and reverse reply.AssemblyInfoInputs.cache
+C:\Users\prakti\source\repos\Projects_Emilio\Prompt and reverse reply\obj\Debug\net6.0\Prompt and reverse reply.AssemblyInfo.cs
+C:\Users\prakti\source\repos\Projects_Emilio\Prompt and reverse reply\obj\Debug\net6.0\Prompt and reverse reply.csproj.CoreCompileInputs.cache
+C:\Users\prakti\source\repos\Projects_Emilio\Prompt and reverse reply\obj\Debug\net6.0\Prompt and reverse reply.dll
+C:\Users\prakti\source\repos\Projects_Emilio\Prompt and reverse reply\obj\Debug\net6.0\refint\Prompt and reverse reply.dll
+C:\Users\prakti\source\repos\Projects_Emilio\Prompt and reverse reply\obj\Debug\net6.0\Prompt and reverse reply.pdb
+C:\Users\prakti\source\repos\Projects_Emilio\Prompt and reverse reply\obj\Debug\net6.0\Prompt and reverse reply.genruntimeconfig.cache
+C:\Users\prakti\source\repos\Projects_Emilio\Prompt and reverse reply\obj\Debug\net6.0\ref\Prompt and reverse reply.dll
