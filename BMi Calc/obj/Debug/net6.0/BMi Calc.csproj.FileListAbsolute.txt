@@ -1,0 +1,14 @@
+C:\Users\prakti\source\repos\Projects_Emilio\BMi Calc\obj\Debug\net6.0\BMi Calc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prakti\source\repos\Projects_Emilio\BMi Calc\obj\Debug\net6.0\BMi Calc.AssemblyInfoInputs.cache
+C:\Users\prakti\source\repos\Projects_Emilio\BMi Calc\obj\Debug\net6.0\BMi Calc.AssemblyInfo.cs
+C:\Users\prakti\source\repos\Projects_Emilio\BMi Calc\obj\Debug\net6.0\BMi Calc.csproj.CoreCompileInputs.cache
+C:\Users\prakti\source\repos\Projects_Emilio\BMi Calc\bin\Debug\net6.0\BMi Calc.exe
+C:\Users\prakti\source\repos\Projects_Emilio\BMi Calc\bin\Debug\net6.0\BMi Calc.deps.json
+C:\Users\prakti\source\repos\Projects_Emilio\BMi Calc\bin\Debug\net6.0\BMi Calc.runtimeconfig.json
+C:\Users\prakti\source\repos\Projects_Emilio\BMi Calc\bin\Debug\net6.0\BMi Calc.dll
+C:\Users\prakti\source\repos\Projects_Emilio\BMi Calc\bin\Debug\net6.0\BMi Calc.pdb
+C:\Users\prakti\source\repos\Projects_Emilio\BMi Calc\obj\Debug\net6.0\BMi Calc.dll
+C:\Users\prakti\source\repos\Projects_Emilio\BMi Calc\obj\Debug\net6.0\refint\BMi Calc.dll
+C:\Users\prakti\source\repos\Projects_Emilio\BMi Calc\obj\Debug\net6.0\BMi Calc.pdb
+C:\Users\prakti\source\repos\Projects_Emilio\BMi Calc\obj\Debug\net6.0\BMi Calc.genruntimeconfig.cache
+C:\Users\prakti\source\repos\Projects_Emilio\BMi Calc\obj\Debug\net6.0\ref\BMi Calc.dll
